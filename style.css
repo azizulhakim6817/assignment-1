@@ -73,7 +73,7 @@ img {
   margin-top: 15px;
 }
 
-/*1 section one---------------- */
+/* 1-section one---------------- */
 .section-one {
   margin-top: 180px;
   max-width: 1140px;
@@ -91,7 +91,7 @@ img {
 .section-one button {
   width: 229px;
 }
-/*2 section-tow------------------ */
+/*2-section-tow------------------ */
 .section-two {
   text-align: center;
   background-color: #d8dbf8;
@@ -120,7 +120,7 @@ img {
   color: #9c9696;
   margin: 0 0;
 }
-/*3 section-three---------------------------------- */
+/*3-section-three---------------------------------- */
 .section-three {
   text-align: center;
   width: 1140px;
@@ -133,7 +133,7 @@ img {
   font-weight: bold;
   margin-top: -50px;
 }
-/* testimonial container-*/
+/*testimonial container-*/
 .section-three img {
   width: 18px;
   height: 18px;
@@ -209,7 +209,7 @@ img {
   font-weight: 100;
 }
 
-/* 5-----section-five-------------- */
+/* 5-section-five-------------- */
 .section-five {
   display: flex;
   justify-content: space-between;
