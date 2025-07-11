@@ -46,7 +46,7 @@ img {
 
 .header {
   text-align: center;
-  background-image: url("/Assets/Hero-bg.png");
+  background-image: url("./Assets/Hero-bg.png");
   max-width: 1440px;
   height: 480px;
 }
