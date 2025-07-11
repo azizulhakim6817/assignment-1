@@ -51,10 +51,12 @@ img {
   height: 480px;
 }
 
-.header-container h1 {
+
+ .header-container h1 {
   color: #4e47ff;
   font-size: 34px;
-}
+  font-weight: bold;
+} 
 
 .header-hero {
   max-width: 905px;
@@ -289,8 +291,8 @@ textarea {
 }
 
 .footer-container img {
-  width: 150px;
-  height: 60px;
+  width: 130px;
+  height: 50px;
 }
 
 .footer-container p {
@@ -320,5 +322,5 @@ textarea {
 }
 
 .navBar ul li a:hover {
-  color: 8987A1;
+  color: #2512f5;
 }
